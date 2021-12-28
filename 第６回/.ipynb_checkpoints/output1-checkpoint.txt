@@ -1,0 +1,8 @@
+ 743,Allan           ,A
+1063,Edison          ,F
+1439,Hurley          ,S
+1823,Morton          ,C
+1511,Nicholls        ,F
+  87,Ryle            ,F
+1919,Walter          ,F
+ 767,Warbeck         ,B

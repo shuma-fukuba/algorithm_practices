@@ -1,0 +1,2240 @@
+ 142,Aaron           ,F
+ 209,Abbey           ,F
+ 257,Abbington       ,S
+ 350,Abbot           ,F
+ 369,Abbott          ,F
+ 630,Abel            ,F
+ 727,Abercrombie     ,F
+ 744,Abernethy       ,S
+ 745,Abington        ,F
+ 835,Ace             ,F
+ 850,Acheson         ,F
+ 856,Acker           ,B
+ 884,Ackerson        ,F
+ 945,Ackroyd         ,F
+1116,Acland          ,F
+1204,Acton           ,A
+1217,Adams           ,B
+1242,Adamson         ,F
+1291,Adcock          ,B
+1438,Addington       ,F
+1885,Addinsell       ,C
+2006,Addison         ,F
+2067,Addy            ,S
+2131,Adinton         ,S
+ 137,Adkins          ,F
+ 284,Adlam           ,F
+ 330,Adrian          ,A
+ 444,Ager            ,F
+ 693,Agnew           ,B
+ 867,Agutter         ,B
+ 883,Ahearne         ,F
+ 974,Aidan           ,B
+1013,Ailey           ,C
+1118,Aimers          ,F
+1139,Ainsworth       ,B
+1352,Airey           ,F
+1359,Airy            ,A
+1422,Aitken          ,A
+1553,Albarn          ,C
+1774,Albright        ,A
+1797,Alcock          ,B
+1861,Alcott          ,F
+1876,Alderson        ,B
+2008,Aldington       ,F
+  81,Aldis           ,F
+ 118,Aldiss          ,F
+ 127,Aldrich         ,F
+ 211,Aldridge        ,F
+ 317,Alexander       ,F
+ 331,Alford          ,A
+ 366,Algren          ,F
+ 743,Allan           ,A
+ 969,Allen           ,B
+1310,Allenby         ,C
+1431,Allingham       ,F
+1544,Allison         ,F
+1666,Allport         ,F
+1705,Allston         ,F
+1849,Almond          ,F
+2099,Ambler          ,F
+2123,Amery           ,A
+2156,Ames            ,F
+2163,Amherst         ,F
+   3,Amis            ,F
+ 380,Anderson        ,F
+ 409,Andrews         ,F
+ 550,Angell          ,S
+ 768,Ankerson        ,S
+ 841,Annakin         ,S
+ 860,Anthony         ,F
+1110,Anvil           ,C
+1226,Appleby         ,F
+1279,Applegarth      ,S
+1304,Appleton        ,B
+1314,Appleyard       ,F
+1433,Archer          ,S
+1561,Archibald       ,S
+1732,Aris            ,C
+1984,Arkin           ,F
+2016,Arkwright       ,F
+2048,Arliss          ,S
+2060,Armitage        ,F
+2069,Armstrong       ,F
+ 285,Arne            ,B
+ 305,Arnett          ,F
+ 387,Arnold          ,F
+ 476,Arterton        ,F
+  67,Arthur          ,B
+ 558,Arthurs         ,F
+ 587,Ascham          ,F
+ 629,Ashbery         ,C
+ 646,Ashburton       ,B
+ 754,Ashby           ,F
+  68,Ashcroft        ,F
+ 799,Asher           ,F
+ 819,Ashfield        ,F
+ 834,Ashley          ,B
+ 851,Ashton          ,F
+ 929,Asquith         ,F
+ 948,Astley          ,C
+ 959,Aston           ,S
+1133,Astor           ,F
+1161,Atkins          ,F
+1324,Atkinson        ,F
+1458,Attenborough    ,C
+1586,Attlee          ,F
+1616,Attwell         ,B
+1632,Attwood         ,F
+1697,Aubrey          ,F
+1726,Auden           ,C
+1743,Audsley         ,B
+1844,Audubon         ,C
+1871,Austin          ,F
+1954,Avallone        ,F
+  24,Aveling         ,F
+ 201,Avery           ,A
+ 315,Avory           ,S
+ 580,Awdry           ,S
+ 640,Aynsley         ,F
+ 680,Ayrton          ,B
+ 696,Babbage         ,F
+ 865,Babbington      ,A
+ 101,Backley         ,B
+ 970,Bacon           ,A
+1107,Bagehot         ,F
+1173,Bagley          ,F
+1273,Bagwell         ,S
+1365,Bailey          ,F
+1374,Baily           ,A
+1484,Bain            ,S
+1536,Baines          ,F
+1542,Baird           ,F
+1723,Baker           ,F
+1825,Balbirnie       ,A
+1965,Baldwin         ,S
+2018,Bale            ,F
+2096,Balfe           ,S
+2184,Balfour         ,F
+2221,Ball            ,F
+ 147,Ballard         ,F
+ 307,Balliol         ,A
+ 117,Bamber          ,S
+ 336,Banes           ,F
+ 365,Banfield        ,F
+ 446,Bankes          ,B
+ 447,Banks           ,F
+ 454,Bannerman       ,S
+ 662,Bannister       ,F
+   8,Bantock         ,F
+ 802,Barbour         ,F
+ 885,Barclay         ,B
+1065,Baring          ,F
+1654,Barker          ,C
+1787,Barks           ,F
+1937,Barlow          ,F
+ 135,Barlowe         ,F
+ 184,Barnard         ,F
+ 276,Barnes          ,F
+ 408,Barnett         ,F
+ 639,Barr            ,B
+ 796,Barraclough     ,F
+  69,Barrett         ,A
+1077,Barrie          ,A
+1080,Barrington      ,F
+1189,Barron          ,B
+1220,Barry           ,A
+  73,Barth           ,F
+1296,Bartlett        ,F
+1343,Barton          ,F
+1362,Baskerville     ,F
+1370,Bassett         ,F
+  76,Batchelor       ,F
+1581,Bates           ,F
+1585,Bateson         ,B
+1631,Battle          ,F
+1683,Bax             ,B
+1716,Baxter          ,A
+1753,Bayly           ,C
+1938,Beaconsfield    ,C
+1958,Beadon          ,F
+2032,Beale           ,F
+2059,Beamont         ,F
+2119,Bean            ,F
+ 475,Beanland        ,S
+ 501,Beardsley       ,F
+ 554,Beaton          ,F
+ 667,Beattie         ,C
+ 721,Beatty          ,S
+ 732,Beaumont        ,F
+ 739,Beck            ,F
+ 916,Becket          ,F
+1010,Beckett         ,F
+1145,Beckford        ,F
+1267,Beckham         ,C
+1320,Beckles         ,F
+1480,Beckley         ,F
+1529,Beckwith        ,F
+1555,Beddoe          ,A
+1626,Bedford         ,F
+1672,Beecham         ,F
+1704,Caird           ,S
+1812,Calder          ,C
+1827,Caldwell        ,F
+1831,Callaghan       ,F
+2009,Callow          ,F
+2064,Calvert         ,C
+ 552,Cambell         ,F
+ 556,Camden          ,F
+ 697,Cameron         ,S
+ 801,Campbell        ,F
+ 946,Campian         ,S
+ 988,Campion         ,F
+1083,Camps           ,F
+1186,Cannadine       ,A
+1203,Canning         ,F
+1475,Card            ,F
+ 130,Cardiff         ,B
+  77,Carey           ,C
+1582,Carleton        ,F
+1590,Carlin          ,C
+1612,Carlisle        ,F
+1664,Carlton         ,A
+1891,Carlyle         ,A
+1945,Carnall         ,B
+1975,Carnegie        ,F
+2012,Carr            ,A
+2019,Carrack         ,F
+2025,Carrington      ,F
+2044,Carrol          ,A
+2191,Carroll         ,F
+2197,Carson          ,A
+ 394,Carter          ,F
+ 524,Cartlidge       ,F
+ 542,Cartpenter      ,F
+ 188,Cartwright      ,F
+ 778,Carvel          ,B
+ 782,Carvell         ,A
+ 833,Cary            ,C
+ 933,Case            ,F
+1007,Casey           ,F
+1233,Cashman         ,F
+1366,Cassells        ,F
+1380,Cattermole      ,F
+1400,Cattrall        ,B
+1445,Cavendish       ,F
+1507,Cavill          ,B
+1692,Caxton          ,F
+1851,Cayford         ,F
+2003,Cayley          ,A
+2015,Cecil           ,F
+  23,Chad            ,F
+2142,Challis         ,F
+  27,Chamberlain     ,F
+ 591,Chambers        ,F
+ 700,Chandler        ,F
+ 786,Chapman         ,F
+1040,Charlton        ,S
+ 163,Charnley        ,F
+1521,Chatwin         ,B
+1643,Chaucer         ,F
+1966,Chauncey        ,A
+2041,Cheers          ,F
+2139,Chenoweth       ,F
+2158,Cheshire        ,F
+ 231,Chesterton      ,F
+ 367,Chichester      ,F
+ 385,Child           ,A
+ 474,Childs          ,F
+ 513,Chipchase       ,F
+ 519,Christie        ,F
+ 525,Church          ,F
+ 643,Churchill       ,F
+ 655,Citrine         ,F
+ 710,Clackson        ,F
+ 728,Clapton         ,F
+ 237,Clark           ,S
+1044,Clarke          ,F
+1047,Clay            ,C
+1174,Clayton         ,F
+1224,Cleaves         ,F
+1339,Cleese          ,F
+1378,Clegg           ,F
+1446,Cleland         ,B
+ 116,Cleobury        ,S
+1761,Clerihew        ,S
+ 223,Cleveland       ,C
+1989,Cleverley       ,F
+1991,Clifford        ,B
+2021,Clifton         ,C
+2030,Clinton         ,F
+2080,Clive           ,B
+2083,Close           ,C
+2089,Clough          ,F
+2094,Coates          ,F
+2150,Cobbett         ,F
+ 141,Cockburn        ,F
+ 473,Cocker          ,F
+ 579,Codd            ,F
+ 636,Coen            ,F
+ 665,Coffey          ,F
+ 711,Coulfield       ,F
+ 730,Coulson         ,F
+ 894,Coulthard       ,A
+ 901,Court           ,F
+ 926,Courtenay       ,S
+1046,Cousins         ,F
+1081,Coverdale       ,S
+1181,Covington       ,F
+1200,Cowan           ,F
+  16,Coward          ,A
+1225,Cowen           ,C
+1377,Cowley          ,A
+1488,Cowling         ,F
+1527,Cowper          ,F
+1628,Cox             ,S
+1707,Coxon           ,F
+ 177,Craig           ,S
+1816,Craine          ,F
+1909,Cram            ,B
+1917,Crammer         ,F
+1977,Crane           ,F
+ 249,Craven          ,F
+2038,Crawford        ,F
+2086,Creagh          ,C
+  61,Creighton       ,A
+2134,Crenshaw        ,B
+2204,Crewe           ,F
+ 429,Crewes          ,F
+ 570,Cripps          ,F
+ 692,Crocker         ,S
+  52,Crockford       ,S
+ 874,Croft           ,C
+1034,Crofts          ,F
+1184,Croke           ,B
+1261,Crompton        ,F
+1372,Cromwell        ,S
+1385,Cronnelly       ,A
+1413,Crook           ,C
+1417,Crosbie         ,C
+1490,Crossley        ,F
+1538,Crowdey         ,F
+1793,Crowe           ,A
+1803,Crowley         ,F
+ 325,Crowther        ,F
+2235,Croydon         ,B
+ 382,Cruikshank      ,F
+ 410,Crumb           ,F
+ 411,Crystal         ,F
+ 510,Cullen          ,C
+ 520,Cumberbatch     ,S
+ 653,Desmond         ,F
+ 776,Devlin          ,C
+ 915,Devonish        ,C
+ 944,Dew             ,F
+1009,Dewar           ,F
+1070,Dewey           ,F
+1091,Dexter          ,F
+1148,Dickens         ,F
+1235,Dickinson       ,B
+ 129,Dickson         ,C
+1587,Dilke           ,B
+1711,Dill            ,C
+2000,Dillon          ,F
+2042,Dimbleby        ,B
+ 229,Dineley         ,S
+2093,Dingley         ,S
+ 431,Dirac           ,A
+ 674,Diskin          ,F
+ 763,Disley          ,S
+ 122,Dixon           ,F
+1141,Dobson          ,F
+1156,Dockrill        ,C
+1191,Dodgson         ,C
+1286,Doherty         ,C
+1302,Dolan           ,B
+1354,Donaghy         ,A
+1356,Donaldson       ,F
+1560,Donne           ,B
+1571,Donnellon       ,B
+1652,Donnelly        ,S
+1869,Donovan         ,F
+1882,Douglas         ,A
+1925,Dowdall         ,F
+ 261,Dowdeswell      ,F
+2198,Dowding         ,A
+ 432,Dowell          ,F
+ 479,Dowland         ,S
+ 502,Dowling         ,B
+ 752,Downer          ,F
+ 789,Downes          ,F
+ 791,Downing         ,A
+ 862,Dowson          ,C
+ 303,Doyle           ,F
+ 987,Drabble         ,S
+1241,Drake           ,F
+1294,Dransfield      ,F
+ 376,Draper          ,F
+1363,Drewett         ,F
+1367,Driscoll        ,A
+1412,Driver          ,C
+  38,Eagle           ,B
+1496,Eagleton        ,F
+1593,Ealdred         ,F
+1741,Eames           ,F
+1842,Earhart         ,B
+1907,Easdale         ,B
+1951,Easterbrook     ,F
+1972,Easton          ,S
+1993,Eaton           ,S
+2063,Eccles          ,A
+ 267,Eccleston       ,A
+ 441,Eckert          ,C
+ 470,Eddington       ,F
+ 590,Eddison         ,F
+ 391,Eddowes         ,B
+ 805,Eden            ,F
+ 958,Edge            ,F
+1052,Edgeworth       ,F
+1063,Edison          ,F
+1295,Edkins          ,F
+ 198,Edmonds         ,F
+  40,Edmundson       ,F
+1778,Edney           ,F
+1794,Edwards         ,F
+1802,Edwin           ,F
+ 134,Effinger        ,F
+1873,Egan            ,F
+ 226,Eggar           ,F
+ 671,Eggleston       ,A
+  50,Eggleton        ,C
+ 792,Eklund          ,A
+ 162,Eldon           ,A
+ 873,Eldred          ,B
+ 886,Eley            ,F
+ 124,Elgar           ,F
+ 973,Elgin           ,F
+ 993,Eliot           ,B
+1000,Elkin           ,C
+1012,Ellington       ,F
+ 310,Elliot          ,F
+ 166,Elliott         ,A
+1259,Ellis           ,F
+1328,Ellison         ,F
+  37,Ellsberg        ,S
+ 399,Ellwood         ,F
+1457,Elman           ,S
+1603,Elmes           ,S
+1613,Elphinstone     ,F
+ 222,Elton           ,F
+1673,Elwes           ,F
+1796,Ely             ,F
+1814,Embrey          ,F
+2115,Embury          ,B
+2152,Emerson         ,S
+2178,Emery           ,F
+ 539,Emmet           ,F
+ 541,Enfield         ,F
+ 637,England         ,F
+ 896,Englefield      ,B
+ 967,English         ,F
+ 214,Ennis           ,F
+ 312,Entwistle       ,F
+ 337,Erikson         ,F
+1386,Erskine         ,F
+1410,Esmond          ,F
+1472,Etchison        ,F
+1482,Etheridge       ,F
+1508,Etherington     ,F
+1546,Evans           ,F
+1642,Evarts          ,A
+1659,Evatt           ,F
+1712,Eveleigh        ,C
+ 342,Everest         ,A
+1811,Everett         ,A
+1877,Ewing           ,S
+2117,Fairchild       ,S
+2195,Fairclough      ,F
+2231,Fairfield       ,F
+ 120,Falconer        ,A
+ 788,Fallon          ,C
+ 888,Flockhart       ,F
+ 908,Florence        ,F
+ 963,Florey          ,F
+1090,Follett         ,F
+1183,Foot            ,C
+ 165,Forbes          ,F
+1311,Ford            ,F
+1509,Forester        ,F
+ 378,Forgus          ,C
+1667,Forster         ,F
+ 111,Forsyth         ,F
+2023,Fortescue       ,B
+2151,Fortune         ,F
+2201,Foster          ,C
+ 562,Foulds          ,C
+  92,Fowler          ,F
+ 651,Fowles          ,B
+ 668,Fox             ,F
+ 690,Frampton        ,F
+ 760,Francis         ,F
+ 826,Franklin        ,S
+ 904,Fraser          ,A
+ 937,Freeman         ,C
+ 942,Freemantle      ,C
+ 956,Friday          ,F
+ 975,Friel           ,C
+ 989,Fripp           ,F
+1164,Frost           ,B
+1275,Froude          ,F
+1312,Fry             ,A
+1340,Fugler          ,F
+1420,Fuller          ,F
+1513,Fullerton       ,A
+1755,Furnivall       ,F
+  43,Gage            ,C
+1923,Gahan           ,B
+  88,Gainsborough    ,C
+ 593,Gaitskell       ,B
+ 775,Galbraith       ,A
+ 415,Gale            ,A
+ 843,Gallagher       ,F
+  12,Galloway        ,F
+ 907,Galsworthy      ,F
+  35,Galton          ,S
+1206,Galvin          ,A
+  17,Galway          ,F
+1249,Garber          ,F
+1287,Gardener        ,F
+1358,Gardiner        ,F
+ 401,Gardner         ,F
+1428,Golding         ,B
+ 379,Goldsmith       ,F
+ 174,Goldsworthy     ,F
+ 107,Golledge        ,F
+ 176,Gooch           ,C
+1721,Goodall         ,F
+1790,Goode           ,F
+1798,Goodfellow      ,F
+1845,Goodgame        ,A
+ 224,Goodwin         ,F
+2148,Gordon          ,A
+2173,Gore            ,S
+2213,Gorham          ,F
+ 518,Gorry           ,F
+ 160,Gorton          ,C
+ 497,Gosling         ,F
+ 652,Goss            ,F
+ 657,Gough           ,F
+ 794,Goulding        ,B
+ 845,Gower           ,S
+1011,Grady           ,B
+ 508,Grafton         ,S
+1252,Graham          ,F
+ 375,Grant           ,S
+ 244,Granville       ,F
+1423,Graves          ,S
+ 531,Gray            ,C
+1492,Green           ,S
+1548,Greenaway       ,F
+1549,Greenbury       ,F
+1600,Greene          ,F
+1710,Greenfield      ,B
+1745,Greenhalgh      ,F
+1860,Greenhough      ,F
+1955,Greening        ,C
+2072,Greenwood       ,F
+2220,Gregory         ,F
+ 705,Gregson         ,C
+ 722,Grenfell        ,F
+ 740,Grennell        ,A
+ 877,Grenville       ,F
+1093,Gresham         ,C
+ 359,Grewcock        ,F
+1248,Grey            ,F
+1263,Grierson        ,F
+1334,Griffin         ,F
+1467,Griffith        ,F
+ 217,Griffiths       ,C
+1506,Grindey         ,A
+ 259,Grint           ,S
+1688,Hand            ,C
+1699,Hanks           ,C
+ 406,Hanretty        ,F
+1956,Hanson          ,F
+ 492,Hansson         ,F
+2061,Harcourt        ,F
+ 345,Hardcastle      ,S
+ 645,Harding         ,F
+ 701,Hardstaff       ,F
+ 708,Hardy           ,A
+ 151,Hare            ,A
+ 978,Hargin          ,F
+ 437,Hargreaves      ,B
+1029,Harington       ,B
+1134,Harlow          ,F
+1215,Harmsworth      ,F
+1272,Harness         ,F
+1321,Harper          ,F
+1326,Harries         ,F
+1429,Harrington      ,F
+1436,Harris          ,F
+ 246,Harrison        ,F
+1694,Hart            ,B
+1832,Hartfield       ,F
+1847,Hartley         ,C
+1952,Hartnett        ,F
+1992,Hartshorne      ,C
+2155,Harvey          ,F
+2240,Haskell         ,F
+ 677,Haslam          ,F
+ 720,Hasluck         ,F
+ 766,Hastings        ,C
+ 811,Haswell         ,F
+ 433,Hatcher         ,F
+ 887,Hathaway        ,C
+ 990,Hatson          ,F
+ 999,Hatton          ,F
+1078,Hauksbee        ,F
+1089,Haviland        ,C
+1105,Hawken          ,F
+  19,Hawkey          ,F
+  74,Hawkins         ,C
+1379,Hawkyard        ,F
+1517,Hawley          ,F
+1543,Haworth         ,F
+1588,Hawthorne       ,F
+1690,Hawtrey         ,F
+1881,Hay             ,C
+1996,Hayden          ,S
+ 364,Hayes           ,S
+2125,Hinshelwood     ,F
+2146,Hinsley         ,F
+ 634,Hiscock         ,F
+  29,Hitchcock       ,B
+ 549,Hitchens        ,F
+  30,Hitchon         ,A
+ 388,Hoare           ,A
+  53,Hodge           ,F
+  32,Hodges          ,S
+ 551,Hodgkinson      ,S
+1067,Hoffman         ,F
+1094,Hogan           ,C
+1125,Hogarth         ,A
+1128,Holbein         ,F
+1165,Holborne        ,B
+1195,Holbrooke       ,S
+1230,Holden          ,F
+1345,Holdsworth      ,F
+1440,Holles          ,F
+ 283,Hollingworth    ,F
+ 145,Holloway        ,B
+1668,Holmes          ,B
+1670,Holst           ,A
+1674,Holyland        ,F
+1680,Home            ,A
+  84,Honeyball       ,F
+1792,Hooker          ,B
+1800,Hooper          ,F
+ 405,Hopkins         ,F
+1870,Hopkinson       ,F
+ 319,Hopper          ,F
+1912,Horgan          ,S
+2029,Hornby          ,F
+2070,Hornsby         ,B
+2085,Horsewood       ,A
+2186,Horwood         ,F
+ 123,Hoskins         ,S
+ 992,Houghton        ,B
+ 334,Household       ,F
+1346,Housman         ,F
+1453,Houston         ,A
+1523,Howard          ,F
+1567,Howe            ,F
+1594,Howell          ,A
+1614,Howells         ,C
+1638,Howitt          ,F
+1656,Hoyle           ,B
+ 603,Hubbard         ,F
+1717,Huddleston      ,F
+  41,Hudson          ,S
+1808,Huffington      ,F
+1888,Hughes          ,C
+1915,Hull            ,F
+ 288,Hulme           ,F
+2026,Hume            ,C
+ 664,Humfrey         ,F
+ 291,Humphreys       ,F
+2112,Humphries       ,F
+ 453,Humphry         ,F
+ 236,Hungate         ,B
+  97,Hunt            ,F
+ 459,Hunte           ,A
+ 594,Hunter          ,S
+1127,Huntington      ,C
+1237,Hurd            ,F
+1439,Hurley          ,S
+1570,Hustler         ,S
+ 361,Hutchings       ,F
+1807,Hutchinson      ,F
+1883,Hutson          ,A
+ 516,Huttlestone     ,B
+1949,Hutton          ,F
+1981,Huxham          ,C
+2039,Huxley          ,F
+2104,Hyatt           ,B
+2114,Hyde            ,C
+ 326,Hydon           ,F
+2175,Hyland          ,B
+2176,Hyndman         ,F
+2229,Idle            ,A
+2236,Ince            ,A
+ 716,Inge            ,F
+ 723,Ingleby         ,F
+ 731,Inglis          ,F
+ 352,Ingram          ,F
+1185,Inman           ,C
+1201,Inns            ,F
+ 622,Ireland         ,F
+  54,Ireton          ,F
+1383,Irons           ,B
+1682,Irvine          ,S
+ 495,Irving          ,B
+ 472,Isaacs          ,C
+1795,Isherwood       ,F
+ 179,Ives            ,F
+2050,Izzard          ,C
+2105,Jackman         ,S
+ 800,Jackson         ,A
+ 822,Jacobs          ,F
+ 864,Jagger          ,A
+ 875,James           ,C
+ 957,Jamieson        ,S
+ 965,Jarman          ,F
+  33,Jarvis          ,C
+1057,Jeffers         ,F
+1102,Jefferson       ,F
+1190,Jeffrey         ,F
+1329,Jeffreys        ,F
+ 339,Jekyll          ,S
+  39,Jenkins         ,B
+1736,Jenkinson       ,F
+ 178,Jenks           ,F
+1758,Jenner          ,S
+1862,Jibson          ,S
+1913,John            ,S
+2129,Johns           ,F
+ 783,Johnson         ,F
+ 960,Johnston        ,F
+1056,Johnstone       ,F
+ 642,Jones           ,F
+ 694,Jonson          ,F
+1149,Joplin          ,A
+1196,Jordan          ,F
+1219,Joseph          ,S
+ 311,Joule           ,F
+1245,Joyce           ,F
+1292,Judge           ,F
+1306,Kavanagh        ,F
+ 349,Kay             ,F
+ 360,Kean            ,B
+ 338,Kearney         ,F
+ 105,Kearns          ,C
+1606,Keats           ,A
+1702,Keeley          ,F
+1750,Keen            ,F
+ 703,Keenan          ,B
+2024,Keighley        ,F
+ 206,Kellegher       ,S
+ 494,Kellett         ,F
+2209,Kelly           ,F
+ 480,Kemble          ,F
+ 879,Kemp            ,C
+ 100,Kendall         ,F
+ 545,Kendrick        ,F
+1039,Kenna           ,B
+1082,Kennedy         ,A
+1170,Kennett         ,F
+1210,Kensit          ,S
+1216,Kent            ,F
+ 412,Kerney          ,F
+1227,Lansdowne       ,F
+1234,Lappin          ,S
+ 194,Larkins         ,C
+1338,Larner          ,F
+1342,Lascelles       ,F
+1399,Latimer         ,A
+ 578,Laughton        ,C
+1504,Laurenson       ,B
+1678,Law             ,A
+ 110,Lawes           ,F
+1786,Lawrence        ,A
+ 202,Lawson          ,A
+1833,Lawton          ,F
+ 515,Layard          ,B
+ 286,Leach           ,F
+1901,Leacock         ,S
+1950,Leahy           ,F
+ 289,Leakey          ,F
+2210,Lean            ,S
+ 238,Lear            ,C
+ 392,Leary           ,S
+ 909,Leavis          ,S
+ 920,Lecky           ,F
+1002,Lee             ,F
+1036,Leek            ,A
+1198,Legge           ,F
+1221,Leigh           ,F
+1231,Leighton        ,F
+1416,Leith           ,F
+1566,Leland          ,F
+1580,Lemmon          ,B
+1625,Lennon          ,F
+1689,Lerwill         ,F
+  78,Leslie          ,F
+1777,Lessing         ,F
+  21,Lester          ,C
+2074,Levin           ,F
+ 706,Levine          ,F
+2157,Levingston      ,S
+ 517,Levins          ,F
+ 923,Lewis           ,F
+ 938,Leyland         ,C
+ 949,Leyton          ,F
+ 976,Lick            ,F
+ 981,Liddell         ,F
+1018,Lightfoot       ,B
+ 278,Lilburne        ,F
+ 619,Lilienthal      ,F
+1154,Lillie          ,F
+ 372,Lillywhite      ,F
+1256,Lyttelton       ,F
+1322,Lytton          ,F
+1415,Mabe            ,S
+ 762,MacAlpine       ,S
+ 489,MacArthur       ,S
+ 675,Macaulay        ,F
+1655,Macauley        ,F
+ 581,MacBride        ,F
+1789,MacDonald       ,F
+ 112,MacDonnel       ,F
+1855,MacFarlane      ,S
+ 565,MacFarren       ,C
+ 612,MacGill         ,B
+ 607,MacGregor       ,F
+  91,MacIntosh       ,B
+ 726,MacIntyre       ,F
+ 292,Mack            ,F
+2087,MacKay          ,F
+2187,MacKenzie       ,F
+2239,MacKey          ,S
+ 506,MacKie          ,S
+ 734,MacKinlay       ,F
+1169,MacKintosh      ,F
+ 485,MacLaine        ,F
+1236,MacLaughlin     ,F
+1297,Maclaurin       ,S
+1483,MacLean         ,F
+ 787,MacLeod         ,F
+1493,MacMahon        ,F
+ 220,MacManus        ,S
+ 535,MacMillan       ,C
+ 628,Macnaghten      ,A
+ 682,MacNair         ,F
+1973,MacNeice        ,C
+2002,MacNeil         ,S
+ 324,MacNeill        ,F
+2092,MacSweeney      ,S
+ 332,Macy            ,F
+ 934,Maddrell        ,F
+ 438,Maguire         ,F
+1025,Mahoney         ,F
+  71,Maihew          ,F
+1175,Maitland        ,A
+ 374,Major           ,A
+ 557,Makepeace       ,C
+1510,Mallett         ,F
+1532,Malory          ,B
+1551,Malthouse       ,F
+1698,Malthus         ,C
+1742,Mansfield       ,F
+1780,McClintock      ,F
+ 842,McClure         ,F
+1964,McColgan        ,S
+2033,McCollum        ,S
+ 503,McConnell       ,S
+1096,McCorkell       ,A
+1100,McCormack       ,B
+1182,McCormick       ,B
+1347,McCorquodale    ,F
+1384,McCoy           ,F
+ 400,McCullagh       ,F
+ 218,McCullin        ,F
+1578,McCulloch       ,F
+ 153,McCullough      ,A
+ 861,McDonald        ,F
+ 582,McDonnell       ,A
+ 362,McDougall       ,F
+1752,McDowell        ,F
+ 430,McElhiney       ,F
+ 816,McElwee         ,F
+1936,McEvoy          ,A
+1999,McFadden        ,F
+2124,McFarlane       ,F
+ 353,McGill          ,B
+ 504,McGinnis        ,F
+ 187,McGlynn         ,F
+1045,McGonagle       ,B
+1079,McGough         ,B
+ 572,McGovern        ,C
+ 615,McGregor        ,F
+1147,McGuigan        ,F
+ 373,McGwire         ,F
+1247,McHugh          ,F
+1266,McIntosh        ,F
+1432,McIntyre        ,A
+1463,McKane          ,S
+ 772,McKay           ,F
+1784,McKeavney       ,F
+1788,McKee           ,F
+1846,McKellen        ,C
+ 605,McKenna         ,F
+1868,McKennitt       ,F
+ 685,McKenzie        ,C
+ 568,McKeone         ,F
+2167,McKeown         ,F
+2181,McKernan        ,A
+2226,McKerrow        ,F
+ 416,McKie           ,F
+ 641,McKinney        ,S
+1095,McKinnon        ,F
+1119,Milnes          ,F
+1172,Milton          ,F
+ 912,Milward         ,S
+1193,Minter          ,C
+ 808,Minton          ,F
+ 758,Mitchell        ,F
+1344,Mixon           ,B
+1389,Moffat          ,C
+1434,Moffett         ,F
+ 488,Mogan           ,F
+1515,Mogg            ,F
+ 197,Mogridge        ,B
+1558,Moleyns         ,F
+   2,Moloney         ,A
+1657,Monaghan        ,S
+1766,Monckton        ,S
+1773,Moncrief        ,F
+1801,Monroe          ,S
+ 564,Montagu         ,C
+ 149,Montague        ,F
+1947,Monteith        ,F
+ 702,Montgomery      ,F
+ 180,Moodie          ,F
+2036,Moon            ,F
+ 848,Mooney          ,F
+2100,Moorcroft       ,B
+2122,Moore           ,C
+ 666,Moorehead       ,A
+2238,Morahan         ,S
+ 961,Moran           ,C
+ 870,More            ,F
+1038,Morgan          ,F
+1076,Morgans         ,B
+1115,Morlan          ,F
+ 481,Morley          ,C
+ 913,Moroney         ,F
+1315,Morpeth         ,A
+1371,Morphew         ,F
+1474,Morris          ,S
+1491,Morrison        ,S
+ 532,Morrissey       ,F
+1597,Morrow          ,F
+1676,Morse           ,A
+ 247,Mort            ,S
+ 316,Mortimer        ,B
+1823,Morton          ,C
+1892,Moseley         ,F
+2045,Moses           ,B
+2162,Mosley          ,F
+1049,Moss            ,F
+1092,Mott            ,C
+1202,Mottelay        ,F
+1238,Moulding        ,F
+1240,Muggeridge      ,F
+ 575,Muir            ,F
+1281,Muirhead        ,F
+ 528,Mulcahy         ,A
+1332,Mulligan        ,S
+ 530,Mundy           ,B
+1770,Munro           ,B
+ 548,Munroe          ,F
+ 921,Murdoch         ,B
+1863,Murdock         ,A
+1867,Murphy          ,F
+ 255,Murray          ,F
+ 370,Murt            ,F
+2017,Musgrave        ,F
+ 586,Musson          ,F
+2111,Mutton          ,B
+ 631,Mycroft         ,A
+2130,Myler           ,F
+ 138,Napier          ,C
+1023,Nash            ,F
+1043,Neal            ,F
+1055,Neely           ,F
+ 618,Neeson          ,F
+ 931,Nelson          ,S
+1122,Nettleship      ,F
+ 982,Neville         ,A
+1223,Newell          ,S
+1253,Newhouse        ,B
+ 420,Newlands        ,A
+1301,Newman          ,S
+ 719,Newmark         ,F
+1364,Newton          ,F
+1404,Nicell          ,F
+1511,Nicholls        ,F
+1552,Nichols         ,C
+1599,Nicholson       ,F
+1608,Nicks           ,F
+ 108,Nicol           ,F
+1658,Nicolson        ,F
+ 774,Nipher          ,F
+ 148,Nish            ,F
+1914,Nixon           ,C
+1931,Noakes          ,F
+  94,Noel            ,F
+ 903,Nolan           ,F
+2126,Nordley         ,B
+ 252,Norfolk         ,F
+ 979,Norman          ,F
+ 769,Norris          ,F
+1177,Norrish         ,F
+ 496,North           ,A
+1229,Northam         ,F
+ 738,Northmore       ,C
+1330,Northrop        ,F
+ 529,Norton          ,F
+ 968,O'Brian         ,C
+1406,O'Brien         ,A
+ 650,O'Byrne         ,F
+1461,O'Callaghan     ,F
+1556,O'Casey         ,F
+1577,O'Connell       ,A
+1731,O'Connor        ,C
+1834,O'Crowley       ,A
+1864,O'Doherty       ,A
+2037,O'Donnell       ,F
+2141,O'Donoghue      ,F
+2217,O'Duffy         ,F
+1074,O'Fallon        ,F
+1163,O'Farrell       ,A
+1519,O'Flaherty      ,F
+1545,O'Grady         ,F
+1589,O'Hara          ,F
+ 561,O'Hare          ,C
+1021,O'Herlihy       ,C
+ 133,O'Higgins       ,F
+1739,O'Keeffe        ,F
+ 918,O'Kelly         ,F
+   4,O'Leary         ,F
+1829,O'List          ,F
+ 994,O'Malley        ,A
+1874,O'Meara         ,F
+1878,O'Neill         ,S
+1911,O'Reilly        ,F
+ 156,O'Riordan       ,B
+ 347,O'Rourke        ,F
+1028,O'Shaughnessy   ,F
+2159,O'Shea          ,A
+2233,O'Sullivan      ,F
+ 906,O'Toole         ,F
+ 279,Oakes           ,F
+ 333,Oakeshott       ,F
+1283,Oakwood         ,F
+1293,Oates           ,F
+ 195,Occleve         ,S
+1375,Odam            ,B
+1426,Odets           ,C
+1470,Odum            ,S
+ 277,Parr            ,A
+ 534,Parry           ,C
+1621,Parsons         ,S
+1647,Partland        ,F
+1669,Partridge       ,F
+ 627,Pascoe          ,F
+ 840,Paston          ,F
+1854,Paterson        ,F
+ 113,Patten          ,B
+1884,Pattenden       ,B
+1941,Patterson       ,A
+ 302,Paulson         ,F
+1987,Paxton          ,B
+ 322,Payne           ,B
+2005,Peabody         ,F
+2007,Peace           ,C
+2031,Peake           ,F
+2047,Peakman         ,F
+2136,Pearce          ,F
+1132,Pearl           ,C
+ 207,Pearson         ,F
+ 239,Pease           ,C
+1051,Peel            ,F
+ 192,Peirce          ,F
+ 395,Pelham          ,B
+1243,Pelling         ,F
+1319,Pemberton       ,S
+ 962,Pendry          ,F
+ 729,Penford         ,F
+1016,Pennington      ,S
+ 173,Penry           ,F
+1640,Pepper          ,F
+ 813,Perceval        ,F
+1804,Percy           ,F
+ 456,Perkins         ,F
+1924,Perks           ,S
+ 882,Perrers         ,F
+1979,Perry           ,S
+1983,Pershing        ,F
+1985,Pester          ,F
+ 290,Peters          ,F
+2066,Peyton          ,F
+ 687,Phelan          ,F
+  60,Philips         ,F
+2144,Phillips        ,B
+ 608,Phillipson      ,F
+1137,Phillpotts      ,B
+1179,Philpot         ,B
+ 499,Phoenix         ,F
+ 780,Pickering       ,F
+ 831,Pickles         ,F
+ 460,Pierce          ,F
+ 928,Pilcher         ,S
+1355,Pilkington      ,B
+ 464,Pincott         ,F
+ 600,Pinter          ,F
+1449,Pirie           ,F
+ 354,Pitman          ,F
+1005,Pitt            ,S
+1617,Pitts           ,F
+1003,Plaisted        ,A
+ 656,Plant           ,F
+1809,Plender         ,F
+1889,Plowright       ,F
+1957,Pointer         ,S
+ 150,Pollock         ,F
+ 844,Ponting         ,C
+2022,Poole           ,A
+2098,Porter          ,C
+ 189,Postlethwaite   ,F
+2205,Poswell         ,F
+2206,Potter          ,F
+1158,Pottinger       ,F
+1035,Potts           ,C
+ 935,Powell          ,F
+1106,Power           ,A
+1290,Preece          ,F
+1361,Prescott        ,F
+1373,Press           ,F
+1473,Preston         ,F
+1610,Price           ,S
+1627,Prichard        ,F
+ 654,Pridgen         ,F
+1746,Pridmore        ,B
+1121,Priestley       ,B
+2073,Prime           ,F
+2091,Primrose        ,F
+1050,Pritchett       ,F
+2223,Probert         ,C
+ 854,Prosser         ,C
+ 753,Proudfoot       ,F
+ 781,Prouse          ,F
+ 985,Prowse          ,S
+1265,Pryce           ,A
+ 759,Pugh            ,C
+1331,Purcell         ,F
+1337,Pyle            ,F
+ 171,Quaife          ,F
+1392,Quemby          ,F
+1468,Quigley         ,F
+1502,Quilter         ,A
+1086,Quin            ,C
+1059,Quine           ,B
+ 514,Quinlan         ,A
+ 824,Quinn           ,C
+ 659,Quinton         ,S
+1899,Quirk           ,F
+1922,Rabkin          ,F
+  99,Rackham         ,S
+ 363,Radcliffe       ,C
+  22,Radford         ,A
+2076,Rae             ,F
+  62,Rafferty        ,F
+2160,Raikes          ,F
+2171,Raine           ,B
+2219,Rainwater       ,C
+1257,Rake            ,F
+ 509,Raleigh         ,C
+1318,Rampling        ,F
+ 102,Ramsay          ,A
+1349,Ramsey          ,C
+ 559,Rance           ,F
+1550,Rand            ,S
+ 626,Randall         ,S
+1084,Randolph        ,F
+1713,Rangeley        ,B
+1826,Rankin          ,F
+1879,Ransome         ,F
+ 583,Rapp            ,F
+1918,Raskin          ,C
+ 321,Ratcliffe       ,F
+2071,Rathbone        ,F
+ 299,Ratledge        ,F
+ 295,Ravenscroft     ,F
+2154,Rawle           ,B
+ 914,Rawsthorne      ,C
+1300,Ray             ,S
+1303,Raymond         ,F
+1409,Raynor          ,C
+ 809,Read            ,S
+ 164,Reade           ,C
+1535,Reber           ,F
+ 215,Recorde         ,F
+ 812,Reddie          ,A
+1783,Redding         ,A
+ 154,Reddington      ,S
+1114,Redfield        ,C
+ 318,Redford         ,F
+1821,Redgrave        ,F
+1850,Redmayne        ,B
+2052,Rockwell        ,C
+2081,Rodford         ,F
+2208,Rodger          ,S
+2212,Rodgers         ,C
+ 983,Rodham          ,A
+1073,Rodney          ,C
+1408,Roger           ,B
+ 275,Rogers          ,F
+1421,Ronan           ,F
+1424,Rooke           ,F
+ 858,Rooney          ,A
+1486,Roosevelt       ,S
+1516,Root            ,F
+1530,Rootham         ,F
+ 491,Roper           ,C
+1751,Rose            ,F
+ 297,Ross            ,C
+ 498,Rosser          ,B
+1852,Rosseter        ,B
+   9,Rothery         ,F
+1926,Rowland         ,F
+ 584,Rowlands        ,B
+ 181,Rowlatt         ,F
+1171,Rowling         ,F
+1271,Rowntree        ,F
+ 167,Roy             ,C
+1239,Royce           ,F
+1452,Royle           ,F
+ 602,Rudman          ,A
+1641,Rumbelow        ,F
+1661,Runchman        ,A
+1671,Runciman        ,F
+1693,Rundall         ,B
+1700,Rush            ,F
+  49,Ruskin          ,F
+1725,Russ            ,C
+ 829,Russell         ,S
+1939,Rust            ,F
+ 136,Ruth            ,F
+ 704,Rutherford      ,F
+2062,Rutland         ,F
+2082,Ryan            ,B
+ 688,Rylands         ,S
+  87,Ryle            ,F
+ 748,Ryles           ,B
+2128,Sabine          ,F
+2145,Saintsbury      ,F
+1305,Salinger        ,F
+ 936,Salisbury       ,S
+1395,Salk            ,F
+ 507,Sessions        ,F
+1427,Seton           ,F
+1477,Sewell          ,F
+1479,Sexby           ,F
+1481,Sexton          ,F
+ 421,Seymour         ,A
+ 810,Shaftesbury     ,B
+ 440,Shakespeare     ,F
+ 735,Shaman          ,F
+ 351,Shamrock        ,F
+ 436,Shankly         ,S
+ 569,Shannon         ,C
+ 932,Sharman         ,F
+ 871,Sharp           ,A
+1971,Sharpe          ,A
+ 287,Sharrock        ,S
+   6,Shaughnessy     ,C
+2179,Shaw            ,F
+1168,Shearer         ,F
+ 567,Shearsmith      ,F
+1333,Sheehan         ,F
+ 281,Sheen           ,A
+1341,Sheeran         ,F
+ 751,Sheffield       ,S
+ 807,Shelley         ,F
+1505,Shelvey         ,C
+ 830,Shepherd        ,F
+ 624,Sheppard        ,F
+ 673,Sheridan        ,F
+ 273,Sheringham      ,S
+1681,Sherry          ,B
+ 271,Sherwood        ,B
+ 793,Sheward         ,F
+1856,Shield          ,S
+1903,Shirley         ,F
+1933,Shoebridge      ,F
+  34,Shoemaker       ,F
+ 902,Shortt          ,F
+1232,Sidney          ,F
+2138,Sillitoe        ,S
+2149,Simm            ,B
+ 414,Simmons         ,C
+2194,Simon           ,F
+2196,Simons          ,S
+2237,Simpson         ,F
+  36,Sinclair        ,B
+1381,Sinfield        ,F
+1405,Sisley          ,A
+ 465,Skeffington     ,C
+1419,Skelding        ,F
+ 196,Skinner         ,F
+ 185,Skone           ,F
+1573,Slade           ,F
+1579,Slater          ,B
+ 403,Slattery        ,F
+ 199,Sloan           ,F
+1651,Slocombe        ,F
+ 393,Sly             ,C
+ 837,Smallwood       ,A
+1685,Smart           ,B
+ 679,Smith           ,F
+1729,Smyth           ,C
+1756,Smythe          ,S
+1769,Snell           ,F
+1791,Snelling        ,B
+ 658,Snow            ,B
+1817,Soane           ,C
+1835,Soddy           ,F
+1857,Sollars         ,F
+ 484,Solley          ,F
+1894,Solow           ,F
+1251,Somers          ,S
+ 407,Soper           ,F
+ 114,Sorby           ,A
+ 930,Sotherland      ,F
+2035,Sotherton       ,A
+2110,Soule           ,F
+2147,Sowell          ,B
+ 925,Spark           ,S
+1135,Speake          ,F
+1450,Spearing        ,F
+1285,Spedding        ,S
+ 467,Spence          ,A
+1017,Spencer         ,F
+ 698,Spendlove       ,S
+ 126,Spenser         ,S
+1313,Spiers          ,A
+ 419,Spooner         ,F
+ 661,Spring          ,F
+1117,Springfield     ,S
+ 820,Spurgeon        ,F
+1199,Squire          ,A
+2004,Stacey          ,F
+ 736,Stainton        ,S
+2040,Stamp           ,F
+ 272,Standing        ,F
+1214,Stanfield       ,A
+ 596,Stanford        ,A
+1387,Stanley         ,B
+1130,Stansfield      ,S
+1459,Stanton         ,F
+1514,Stapledon       ,F
+1522,Staples         ,C
+1537,Stapleton       ,C
+ 784,Star            ,A
+ 621,Starkey         ,A
+1684,Starrett        ,F
+1708,Steel           ,F
+1748,Steele          ,F
+ 537,Steiner         ,F
+ 483,Stephen         ,F
+1228,Stephens        ,F
+1886,Stephenson      ,F
+1024,Stepney         ,F
+ 439,Sterling        ,F
+1978,Sterne          ,F
+ 228,Sterry          ,F
+1098,Steuart         ,F
+ 597,Stevens         ,C
+2090,Stevenson       ,S
+2180,Steward         ,F
+ 849,Stewart         ,F
+2193,Stiles          ,F
+2227,Stirling        ,F
+  93,Stockdale       ,F
+1498,Stockwin        ,F
+  46,Stokes          ,F
+1564,Stone           ,F
+1583,Stoney          ,F
+1623,Stoppard        ,A
+1388,Storace         ,F
+1737,Storey          ,A
+1747,Stowe           ,A
+ 947,Street          ,F
+1775,Stride          ,C
+ 451,Stuart          ,C
+1806,Stubbs          ,A
+1187,Stynes          ,F
+1905,Such            ,F
+1268,Suckville       ,B
+ 952,Sullivan        ,F
+ 825,Summerhayes     ,S
+ 750,Summers         ,B
+2014,Summerskill     ,F
+1398,Sumner          ,F
+2053,Sutcliff        ,F
+2107,Sutherland      ,F
+ 818,Sutton          ,B
+ 356,Swan            ,B
+ 435,Sweeney         ,F
+1563,Sweetman        ,S
+1140,Swift           ,C
+1619,Swingler        ,S
+1686,Swinnerton      ,F
+1714,Syers           ,F
+1771,Sykes           ,B
+ 823,Symes           ,F
+ 544,Tait            ,S
+ 381,Talbot          ,B
+1902,Talcott         ,B
+1942,Tallis          ,F
+1211,Tanner          ,F
+2010,Tarrant         ,F
+ 300,Tasker          ,F
+1376,Tatchell        ,S
+2203,Tate            ,A
+2216,Taverner        ,F
+ 718,Tawney          ,F
+  89,Tayler          ,F
+ 941,Taylor          ,F
+ 576,Telford         ,F
+1636,Temperton       ,F
+1639,Temple          ,B
+ 371,Tennant         ,F
+ 614,Tenniel         ,F
+1727,Tennyson        ,F
+ 756,Tester          ,A
+1246,Thackeray       ,S
+  48,Thackwell       ,F
+1810,Thatcher        ,F
+1843,Thayer          ,F
+1853,Theiler         ,F
+1144,Thewlis         ,C
+1897,Thokell         ,F
+ 589,Thomas          ,F
+1927,Thompson        ,F
+1963,Thomson         ,B
+2001,Thorn           ,F
+ 500,Thorndike       ,F
+  80,Thorne          ,F
+2057,Thornhill       ,F
+ 566,Thornley        ,A
+2153,Thornton        ,F
+1323,Thorpe          ,F
+  11,Thurgood        ,S
+1476,Thurman         ,F
+1495,Tierney         ,F
+1131,Tillett         ,F
+1528,Tillotson       ,F
+1645,Tillyard        ,S
+1649,Timberlake      ,F
+1113,Tiner           ,A
+ 253,Tippett         ,C
+1720,Tiptoft         ,S
+1841,Titchmarsh      ,F
+  20,Tobias          ,F
+ 863,Tohill          ,F
+ 725,Tolman          ,A
+ 434,Tomlins         ,F
+2011,Took            ,A
+ 686,Toomey          ,F
+ 245,Tovey           ,B
+2177,Towler          ,C
+ 872,Townsend        ,F
+  56,Townshend       ,F
+ 221,Toye            ,A
+ 463,Toynbee         ,F
+1014,Tragett         ,F
+1703,Travers         ,F
+1782,Traylor         ,F
+1866,Traynor         ,F
+1880,Trevor          ,F
+ 977,Trewavas        ,F
+1935,Truman          ,C
+ 155,Tucker          ,F
+1441,Tudor           ,B
+1946,Tunstall        ,S
+ 553,Turnbull        ,A
+ 119,Turner          ,B
+ 817,Turnour         ,C
+ 327,Twigger         ,F
+2228,Tye             ,F
+2230,Tyler           ,B
+ 625,Tyndale         ,F
+1004,Tyrwhitt        ,F
+  10,Tysoe           ,F
+1260,Underhill       ,B
+1677,Underwood       ,F
+1691,Uniacke         ,F
+ 242,Upshaw          ,F
+ 966,Upson           ,A
+ 604,Urquhart        ,F
+1485,Utley           ,B
+ 527,Uttley          ,F
+1088,Vaughan         ,F
+1368,Vernon          ,F
+1503,Vickers         ,A
+1351,Vincent         ,F
+ 951,Waddingham      ,S
+1960,Waddington      ,F
+1997,Wade            ,F
+2027,Wain            ,C
+ 954,Wainwright      ,F
+2084,Wakeling        ,F
+  51,Wakeman         ,F
+2108,Waldron         ,S
+1136,Wales           ,F
+ 455,Walford         ,A
+ 139,Walker          ,F
+1629,Walkinshaw      ,F
+1456,Wall            ,F
+ 204,Wallace         ,S
+1042,Walpole         ,B
+1900,Walsh           ,S
+1919,Walter          ,F
+ 468,Walters         ,A
+1396,Walthew         ,F
+2013,Walton          ,B
+ 767,Warbeck         ,B
+ 323,Ward            ,F
+2109,Warham          ,C
+ 633,Warleigh        ,F
+ 707,Warlock         ,S
+1108,Warner          ,F
+ 890,Warren          ,S
+1403,Warrilow        ,F
+1569,Warriner        ,F
+  70,Washbourne      ,F
+ 448,Washburn        ,F
+ 764,Washington      ,A
+ 742,Waterhouse      ,S
+ 203,Waters          ,F
+ 574,Watkinson       ,F
+1865,Watmore         ,F
+ 900,Watson          ,F
+1075,Watt            ,C
+1929,Watts           ,B
+ 208,Waugh           ,F
+ 522,Waylett         ,F
+2049,Wayne           ,B
+2113,Webb            ,A
+ 746,Webber          ,F
+ 115,Webster         ,F
+2199,Wedgwood        ,F
+ 526,Weeden          ,F
+1033,Weight          ,F
+1718,Weinberg        ,F
+ 616,Weinberger      ,C
+ 343,Weir            ,F
+ 190,Welbourn        ,C
+1815,Welch           ,S
+1818,Weller          ,S
+ 910,Welles          ,F
+1026,Wellesley       ,F
+1443,Wellington      ,S
+1444,Wells           ,S
+ 617,Welsh           ,A
+1572,Welton          ,B
+ 980,Welty           ,F
+ 264,Wentworth       ,S
+1401,Wesley          ,F
+  85,West            ,F
+1335,Westbrook       ,A
+1598,Westmoreland    ,B
+1262,Weston          ,F
+ 200,Westwick        ,F
+1679,Westwood        ,F
+1744,Wetton          ,F
+1767,Weymouth        ,F
+1772,Whalley         ,B
+1779,Wharton         ,F
+1460,Wheatley        ,F
+ 747,Wheatstone      ,A
+ 803,Wheeldon        ,F
+1037,Wheeler         ,F
+ 442,Wheelwright     ,C
+1980,Whelan          ,F
+1531,Whelbourne      ,F
+ 358,Whight          ,F
+ 571,Whishaw         ,F
+1138,Whistler        ,F
+1255,Whiston         ,S
+ 131,Whitaker        ,A
+2118,Whitbread       ,B
+2132,White           ,F
+ 462,Whitefield      ,S
+ 868,Whitehead       ,F
+2169,Whiteley        ,F
+ 158,Whiteway        ,F
+1644,Whitford        ,F
+1728,Whiting         ,F
+ 777,Whitman         ,F
+1765,Whitmore        ,F
+  42,Whittington     ,F
+1208,Whittle         ,C
+1284,Whymper         ,S
+1920,Whyte           ,F
+1986,Wiat            ,A
+1020,Wibberley       ,F
+1469,Wickham         ,F
+1278,Wickins         ,S
+ 588,Widdowson       ,S
+1611,Widdrington     ,F
+2051,Wight           ,F
+ 256,Wilberforce     ,F
+  47,Wilby           ,F
+ 329,Wilbye          ,F
+1031,Wilcox          ,B
+2172,Wilde           ,F
+ 804,Wilder          ,F
+2190,Wilkes          ,F
+1153,Wilkie          ,A
+ 638,Wilkins         ,A
+2200,Wilkinson       ,F
+  95,Wilks           ,F
+1497,Willcocks       ,F
+ 490,Williams        ,F
+ 895,Williamson      ,F
+1722,Willis          ,F
+ 880,Willmott        ,F
+1019,Willoughby      ,F
+ 422,Wills           ,A
+ 648,Wilmington      ,F
+ 219,Wilmot          ,S
+1604,Wilson          ,C
+1858,Wimberley       ,B
+ 427,Wimbury         ,F
+1350,Winchcombe      ,F
+1584,Windsor         ,A
+ 384,Wingate         ,F
+1974,Wingfield       ,F
+ 911,Winslet         ,F
+1998,Winston         ,F
+1270,Winstone        ,S
+  83,Winter          ,F
+ 106,Winters         ,S
+ 689,Winterson       ,B
+ 417,Winwood         ,B
+2192,Wirgman         ,F
+ 265,Wisdom          ,B
+ 713,Wise            ,F
+1058,Wishart         ,S
+ 213,Withers         ,A
+1733,Witherspoon     ,B
+1061,Witting         ,F
+ 889,Witty           ,F
+ 445,Wodehouse       ,F
+ 533,Wolf            ,C
+ 175,Wolfenden       ,F
+ 798,Wolsey          ,B
+2043,Wolstenholme    ,F
+1288,Wood            ,C
+ 493,Woodman         ,S
+1103,Woods           ,F
+2224,Woodville       ,F
+1494,Woodward        ,F
+1325,Woolf           ,F
+ 620,Woolley         ,B
+1754,Wordsworth      ,C
+1757,Worrall         ,B
+1576,Worsley         ,F
+1776,Worthington     ,S
+ 672,Wray            ,F
+ 828,Wren            ,B
+ 346,Wrenn           ,F
+ 232,Wright          ,F
+1921,Wrigley         ,S
+ 471,Wroughton       ,C
+   5,Wulfstan        ,B
+1280,Wyatt           ,F
+ 335,Wyeth           ,F
+1289,Wyld            ,C
+2056,Wyler           ,F
+ 715,Wyman           ,S
+2165,Wymark          ,S
+ 547,Yardley         ,F
+ 853,Yarnold         ,A
+ 274,Yates           ,F
+1715,York            ,F
+ 838,Yorke           ,B
+ 741,Young           ,A
+ 404,Younghusband    ,A
+1763,Zindell         ,F
+1327,Colbourne       ,F
+1454,Cole            ,F
+1646,Coleman         ,S
+1524,Coleridge       ,B
+ 210,Coles           ,F
+ 191,Colet           ,F
+1129,Colkett         ,F
+1940,Colledge        ,B
+1943,Collett         ,F
+ 240,Colley          ,S
+1662,Collier         ,F
+ 821,Collins         ,F
+1006,Collinson       ,S
+ 592,Colman          ,F
+ 714,Colquhoun       ,F
+2127,Colyer          ,F
+1001,Comerford       ,F
+ 598,Comyn           ,F
+ 869,Conaghan        ,S
+2161,Condren         ,F
+1768,Coney           ,F
+ 681,Conlon          ,F
+1838,Connelly        ,C
+ 461,Connery         ,F
+ 396,Connick         ,F
+ 170,Connolly        ,F
+1962,Connor          ,F
+1976,Conquest        ,A
+  79,Conrad          ,C
+2054,Conroy          ,S
+1222,Considine       ,F
+ 924,Coogan          ,B
+ 128,Cook            ,F
+2137,Cooke           ,F
+2166,Coomes          ,F
+1591,Cooper          ,F
+2188,Cope            ,C
+ 770,Copland         ,F
+ 881,Coppard         ,C
+1653,Copperfield     ,S
+ 991,Corbett         ,F
+ 644,Cork            ,B
+  55,Cormack         ,F
+  18,Cornell         ,F
+1393,Cornes          ,C
+1890,Cornish         ,F
+1696,Cornwell        ,F
+ 443,Corrie          ,A
+ 109,Corrigan        ,F
+1961,Coughlin        ,F
+1540,Cunningham      ,F
+ 205,Currie          ,F
+  64,Curry           ,F
+  13,Curtis          ,F
+ 262,Curzon          ,F
+ 258,Cushing         ,F
+ 140,Cuthbertson     ,F
+  96,Cutter          ,F
+2174,d'Arcy          ,F
+1749,Daines          ,F
+1687,Daisley         ,S
+1709,Dale            ,F
+ 613,Daley           ,F
+ 146,Dallimore       ,C
+ 426,Dalton          ,A
+ 161,Daltrey         ,F
+1394,Damon           ,C
+ 599,Dane            ,F
+ 917,Danes           ,F
+ 606,Daniel          ,F
+1967,Danvers         ,C
+1307,Darling         ,F
+ 251,Darwin          ,C
+ 847,Dashwood        ,S
+2097,Davenport       ,C
+ 505,Davidson        ,C
+ 563,Davies          ,B
+ 458,Davis           ,F
+ 623,Davison         ,B
+1152,Davy            ,A
+  75,Dawson          ,A
+1601,Day             ,C
+1209,Deacon          ,A
+1054,Deakin          ,S
+1932,Deamer          ,B
+ 193,Dean            ,F
+1968,Decker          ,B
+1595,Deighton        ,F
+1764,Dekker          ,A
+1397,Delaney         ,A
+1534,Delany          ,F
+ 852,Demery          ,F
+2183,Dempsey         ,F
+2202,Dench           ,B
+1041,Denham          ,B
+1411,Dennett         ,F
+ 452,Dennis          ,F
+  59,Denny           ,A
+1898,Derby           ,S
+ 724,Derbyshire      ,F
+ 243,Faraday         ,A
+ 320,Farar           ,F
+1188,Farber          ,A
+ 402,Farley          ,F
+1192,Farnaby         ,F
+2078,Farnham         ,F
+ 866,Farnon          ,F
+  25,Farquhar        ,F
+ 212,Farrell         ,F
+1276,Farrington      ,F
+2143,Faulcon         ,F
+1109,Fayrfax         ,S
+ 543,Fearon          ,F
+2218,Featherstonehaugh,S
+ 511,Fee             ,F
+ 216,Felton          ,F
+ 386,Fennelly        ,F
+ 610,Ferguson        ,S
+ 635,Ferrar          ,B
+1910,Ferris          ,C
+1066,Ferry           ,F
+1442,Fetherston      ,F
+1990,Field           ,F
+ 996,Fielding        ,F
+ 709,Fiennes         ,F
+ 927,Figgis          ,F
+ 611,Finch           ,F
+ 152,Findlay         ,F
+1695,Finlay          ,A
+1500,Finley          ,F
+1478,Firestone       ,S
+ 905,Firobisher      ,B
+ 737,Firth           ,C
+1837,Fishburne       ,B
+ 144,Fisher          ,F
+ 546,FitzClarence    ,S
+1819,FitzGerald      ,F
+1391,FitzMaurice     ,S
+1282,FitzPatrick     ,F
+1308,FitzRoy         ,F
+ 699,FitzSimmons     ,F
+ 424,FitzSimons      ,C
+ 733,Flaherty        ,F
+ 314,Flamsteed       ,F
+ 536,Flecker         ,F
+1622,Fleetwood       ,F
+ 857,Fleming         ,B
+ 397,Flemyng         ,S
+ 469,Fletcher        ,C
+  66,Flint           ,F
+ 595,Garfield        ,F
+1630,Garland         ,F
+2046,Garnet          ,F
+ 182,Garnett         ,F
+  82,Garrett         ,C
+1213,Garson          ,A
+ 971,Gascoigne       ,B
+1069,Gascoyne        ,S
+1277,Gaster          ,F
+ 676,Gatiss          ,A
+2168,Gaveston        ,F
+ 573,Gawley          ,F
+1112,Gay             ,S
+ 477,Gayson          ,A
+1157,Gazzard         ,F
+ 478,Gee             ,F
+1719,George          ,F
+ 717,Geraghty        ,B
+1369,German          ,A
+  15,Gettens         ,B
+ 755,Gibbins         ,F
+2034,Gibbon          ,S
+ 268,Gibbons         ,F
+2058,Gibbs           ,F
+1820,Gibney          ,B
+2120,Gibson          ,F
+ 678,Giddens         ,F
+2133,Gielgud         ,S
+ 263,Giles           ,F
+ 282,Gillan          ,F
+1574,Gillett         ,F
+ 301,Gillings        ,F
+ 266,Gilmartin       ,F
+1605,Gilmore         ,F
+1309,Gilmour         ,F
+1317,Gilthorpe       ,F
+1609,Gimson          ,F
+1390,Girtin          ,C
+1822,Gissing         ,F
+1824,Gladstone       ,F
+2182,Glasspool       ,F
+1706,Gleeson         ,F
+ 765,Glen            ,F
+2232,Glover          ,A
+ 683,Goddard         ,F
+1111,Godolphin       ,A
+  31,Godrich         ,F
+1596,Godwin          ,F
+1995,Golbourn        ,B
+ 186,Goldberg        ,C
+2028,Grocyn          ,F
+1541,Grosseteste     ,B
+2065,Grove           ,F
+ 855,Groves          ,A
+ 647,Gruber          ,F
+ 293,Guest           ,F
+ 839,Guiness         ,F
+1559,Guinness        ,F
+1150,Guises          ,F
+ 649,Gulbenkian      ,B
+ 235,Gunn            ,F
+1160,Gunnell         ,A
+1194,Gunter          ,F
+  58,Guthrie         ,F
+  28,Gutteridge      ,F
+ 749,Guyler          ,F
+ 104,Gwatkin         ,F
+1735,Gwilt           ,F
+ 939,Gwyn            ,F
+ 953,Gyle            ,F
+1959,Hack            ,F
+ 577,Hacker          ,F
+1060,Hackman         ,C
+1418,Haddock         ,S
+1123,Haddon          ,S
+  57,Hadley          ,F
+2106,Haggard         ,F
+1101,Hailey          ,F
+ 660,Haines          ,F
+ 308,Hainsby         ,F
+ 806,Haldane         ,F
+ 296,Hale            ,S
+ 632,Hales           ,F
+2170,Haley           ,F
+ 260,Halford         ,F
+ 241,Hall            ,B
+2215,Halley          ,C
+2222,Halliday        ,A
+1512,Hallows         ,B
+1953,Halmshaw        ,F
+1518,Halsall         ,S
+1547,Hambling        ,B
+1607,Hamer           ,B
+ 585,Hamerton        ,F
+1785,Hamilton        ,S
+ 899,Hammerton       ,F
+ 125,Hammond         ,F
+1635,Hampson         ,F
+ 248,Hampton         ,F
+ 389,Hancock         ,F
+   7,Haynes          ,C
+ 183,Hays            ,S
+1944,Haythornthwaite ,A
+1142,Hayward         ,F
+1448,Haywood         ,F
+1437,Hazeldine       ,F
+  14,Hazell          ,F
+1466,Headley         ,F
+ 897,Healy           ,A
+1298,Heartfield      ,C
+1414,Heasman         ,F
+ 157,Heath           ,S
+2225,Heathcoat       ,F
+ 280,Heather         ,A
+ 168,Heatley         ,F
+ 695,Heaviside       ,F
+2020,Hegarty         ,F
+1760,Helson          ,B
+ 560,Henderson       ,F
+  45,Henfrey         ,F
+1934,Henman          ,S
+1471,Hennig          ,F
+ 998,Henrit          ,F
+2068,Henry           ,F
+ 876,Henryson        ,F
+1740,Henshall        ,A
+1124,Hensley         ,F
+2101,Henwood         ,A
+ 712,Hepburn         ,B
+1805,Herbert         ,A
+2135,Herriot         ,F
+ 761,Herschel        ,F
+1648,Hervey          ,B
+1970,Hession         ,F
+1264,Heston          ,F
+1618,Hetherington    ,C
+1701,Hewitt          ,A
+1151,Heyes           ,F
+1575,Heywood         ,C
+1353,Hibbert         ,S
+1602,Hickey          ,F
+ 609,Hicks           ,F
+ 309,Hicky           ,S
+ 663,Higginbotham    ,F
+ 377,Higgins         ,S
+1734,Hill            ,S
+1557,Hilton          ,F
+1848,Hinchcliffe     ,F
+1008,Hinckley        ,S
+ 466,Hinkley         ,F
+ 512,Kerr            ,F
+1167,Kersh           ,S
+1724,Kershaw         ,S
+1969,Keynes          ,F
+ 328,Keys            ,S
+1896,Kidman          ,S
+ 832,Kilner          ,F
+1592,Kimberley       ,A
+2185,Kimbery         ,F
+1464,Kincaid         ,B
+2189,King            ,C
+ 348,Kingscote       ,S
+1447,Kingsley        ,B
+1299,Kingston        ,F
+ 169,Kington         ,F
+  98,Kipling         ,B
+1071,Kirk            ,A
+1062,Kirkby          ,F
+ 827,Kirkland        ,S
+ 390,Kirkman         ,C
+ 340,Kissack         ,F
+1499,Kissinger       ,F
+ 922,Kitchen         ,F
+1027,Kneen           ,F
+2079,Knight          ,A
+1178,Knightley       ,B
+ 368,Knolles         ,F
+ 815,Knott           ,A
+1830,Knowland        ,A
+ 540,Knowles         ,F
+ 457,Knox            ,S
+ 523,Kwouk           ,F
+ 143,Laine           ,F
+ 227,Laing           ,F
+1620,Laird           ,S
+1032,Lake            ,F
+1525,Lamb            ,C
+1382,Lambert         ,F
+2211,Lance           ,F
+1207,Lanchester      ,F
+1254,Landon          ,F
+ 538,Lane            ,F
+2077,Lanfranc        ,F
+ 955,Langdon         ,F
+ 121,Langford        ,F
+ 919,Langridge       ,S
+ 684,Langshaw        ,S
+1762,Langton         ,B
+ 878,Lannaman        ,F
+1660,Lansbury        ,A
+ 785,Lily            ,S
+1053,Lilye           ,F
+1615,Linacre         ,F
+1637,Lindbergh       ,S
+1994,Lindgren        ,F
+ 254,Lindley         ,S
+1908,Lindsay         ,B
+ 814,Lindsey         ,F
+ 859,Linehan         ,B
+1336,Linton          ,F
+ 691,Lippincott      ,C
+ 797,Lipscomb        ,F
+2055,Lipset          ,F
+1072,Lipson          ,F
+ 294,Lipton          ,F
+   1,Lister          ,F
+1859,Littler         ,A
+1759,Littleton       ,F
+1048,Livermore       ,F
+1146,Livingston      ,A
+1099,Livingstone     ,F
+1665,Llewellyn       ,B
+1430,Lloyd           ,A
+ 270,Lockhart        ,C
+ 892,Logan           ,F
+ 234,London          ,A
+1425,Lonergan        ,F
+ 521,Long            ,F
+1402,Longfellow      ,C
+1462,Longhurst       ,A
+1451,Lonsdale        ,A
+1176,Lord            ,F
+ 482,Lott            ,S
+1539,Love            ,F
+ 891,Lovecraft       ,F
+1533,Lowe            ,S
+2102,Lowell          ,F
+1218,Loweth          ,F
+1455,Lucas           ,F
+ 898,Luce            ,F
+ 670,Lucraft         ,B
+2088,Lugard          ,C
+ 418,Lumley          ,F
+ 398,Lydgate         ,F
+1887,Lyly            ,F
+1906,Lynch           ,F
+1948,Lynd            ,F
+1930,Lynton          ,F
+ 757,Lyons           ,B
+1166,Lythgoe         ,F
+1633,Maple           ,B
+1634,Marett          ,A
+1407,Markham         ,F
+ 172,Marland         ,A
+1839,Marlborough     ,F
+1022,Marlowe         ,S
+1316,Marquat         ,F
+1895,Marr            ,F
+  44,Marriott        ,F
+ 940,Marsh           ,S
+1244,Marshall        ,C
+ 995,Martin          ,B
+ 428,Martinson       ,F
+ 449,Marven          ,F
+1212,Masefield       ,F
+ 943,Mason           ,C
+ 159,Massey          ,F
+ 986,Masters         ,S
+1799,Matheson        ,F
+1357,Matthews        ,F
+ 225,Mauchly         ,A
+1258,Maudslay        ,F
+ 450,Maugham         ,F
+1180,Maxwell         ,F
+1489,May             ,F
+1828,Mayer           ,A
+ 771,Mayfield        ,F
+1348,Mayhew          ,F
+  90,Maynard         ,S
+2121,Mayweather      ,F
+1813,Maywood         ,F
+1893,McAleese        ,F
+ 972,McAllister      ,B
+ 425,McAlmont        ,F
+1928,McAlpine        ,B
+1501,McArthur        ,F
+ 964,McAvoy          ,A
+  86,McBein          ,B
+1465,McBrain         ,A
+ 795,McBride         ,F
+ 357,McCabe          ,F
+  72,McCafferty      ,B
+ 846,McCall          ,S
+1205,McCallum        ,C
+1015,McCann          ,A
+1197,McCarroll       ,F
+1738,McCarthy        ,F
+ 984,McCartney       ,F
+ 487,McCarty         ,F
+ 773,McClellan       ,S
+ 486,McKintosh       ,F
+1565,McKnight        ,F
+1064,McLagan         ,F
+ 355,McLaglen        ,C
+1250,McLaren         ,F
+1360,McLaughlin      ,F
+ 413,McLean          ,F
+ 306,McLennan        ,F
+1162,McLeod          ,F
+ 997,McLoughlin      ,B
+1624,McLuhan         ,F
+1988,McMahon         ,B
+1526,McMaster        ,B
+  63,McMath          ,F
+ 304,McMillan        ,A
+ 344,McMurtry        ,F
+ 423,McNair          ,F
+ 250,McNally         ,C
+1487,McNamara        ,F
+ 790,McNulty         ,F
+ 230,McOnie          ,S
+1085,McPartland      ,F
+ 383,McPhail         ,B
+1872,McPhee          ,C
+1126,McPherson       ,F
+ 298,McQueen         ,F
+1836,McRae           ,F
+1120,McSorley        ,S
+ 601,McTeer          ,F
+2103,McVie           ,F
+2116,McWilliams      ,F
+2207,Mear            ,A
+1087,Meegan          ,F
+ 779,Meehan          ,S
+ 132,Melbourne       ,A
+2164,Mellers         ,F
+ 313,Melville        ,F
+2234,Mercury         ,B
+  65,Meredith        ,F
+ 669,Merrigan        ,F
+1068,Merrill         ,A
+ 555,Merwin          ,F
+2095,Miall           ,F
+1155,Michael         ,F
+2075,Middleton       ,F
+1520,Mill            ,C
+1650,Millar          ,C
+1568,Miller          ,F
+1554,Mills           ,F
+1663,Milne           ,B
+1982,Offley          ,F
+1143,Ogburn          ,F
+ 269,Ogden           ,F
+1159,Ogg             ,F
+1875,Oudney          ,F
+1269,Oughtred        ,F
+1030,Ovett           ,B
+ 341,Owen            ,S
+1097,Owens           ,F
+1916,Oxford          ,F
+1274,Oxley           ,F
+1104,Pace            ,F
+ 836,Packer          ,C
+2140,Page            ,F
+2214,Paice           ,F
+  26,Pain            ,B
+ 950,Paley           ,F
+ 233,Palin           ,A
+ 103,Palmer          ,F
+1562,Pape            ,F
+ 893,Pargeter        ,F
+1781,Park            ,A
+1730,Parker          ,B
+1840,Parkes          ,F
+1435,Parkin          ,F
+1675,Parkins         ,C
+1904,Parkinson       ,B
